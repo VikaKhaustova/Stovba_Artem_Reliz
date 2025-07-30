@@ -154,7 +154,7 @@ main {
   background-image: url("folder/13.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 350px;
+  height: 550px;
 }
 
 
@@ -169,14 +169,14 @@ main {
   background-image: url("folder/15.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 120px;
+  height: 320px;
 }
 
 .desserts {
   background-image: url("folder/16.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 120px;
+  height: 320px;
 }
 
 .news h1 {
